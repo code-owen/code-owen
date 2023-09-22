@@ -1,6 +1,7 @@
 ![banner](banner-image.png)
 
-### Hi there 👋 ###
+# About
+  I am an aspiring web developer currently enrolled in the web development program at Humber College.
 
 <!--
 **code-owen/code-owen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
