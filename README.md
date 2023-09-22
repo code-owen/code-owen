@@ -1,6 +1,6 @@
-[banner](github-header-image.png)
+[banner](banner-image.png)
 
-### Hi there 👋
+### Hi there 👋 ###
 
 <!--
 **code-owen/code-owen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
